@@ -1,0 +1,27 @@
+{
+  "name": "oninput",
+  "version": "0.0.0",
+  "description": "receive input from onhashchange/onmessage in browser and pipe in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/oninput.git"
+  },
+  "keywords": [
+    "onhashchange",
+    "onmessage",
+    "pipe",
+    "input",
+    "postMessage",
+    "hash"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/oninput/issues"
+  },
+  "homepage": "https://github.com/serapath/oninput#readme"
+}
